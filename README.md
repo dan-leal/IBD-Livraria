@@ -204,26 +204,26 @@ order by tab.livro_id,tab.autor_id
 
 # Referências
 
-https://www.youtube.com/watch?v=hl55qULfHyU - 17/03 17:32
-https://www.youtube.com/watch?v=1Zpr1vX0wqk - 17/03 17:32
-https://dev.mysql.com/doc/refman/8.0/en/numeric-type-attributes.html
-https://www.codeproject.com/Questions/5328479/Missing-index-constraint-for-an-SQL-table
-https://learnsql.com/blog/referential-constraints-foreign-keys-mysql/
-https://www.gleek.io/blog/er-model-cardinality
-https://www.overleaf.com/latex/templates/sbc-conferences-template/blbxwjwzdngr
-https://medium.com/@fifthfrankie/creating-a-basic-database-using-mysql-python-and-some-fake-data-3ef789859639
-https://dev.mysql.com/doc/connector-python/en/connector-python-example-connecting.html
-https://www.tutorialspoint.com/How-to-generate-non-repeating-random-numbers-in-Python
-https://www.w3schools.com/python/ref_random_uniform.asp
-https://www.tutorialspoint.com/mysql-error-1452-cannot-add-or-a-child-row-a-foreign-key-constraint-fails
-https://stackoverflow.com/questions/12661999/get-raw-decimal-value-from-mysqldb-query
-https://dev.mysql.com/doc/refman/8.0/en/precision-math-expressions.html
-https://pynative.com/python-get-random-float-numbers/
-https://www.w3schools.com/python/module_random.asp
-https://gist.github.com/bmillemathias/f4ae3d8739b4b30c6d18164c4a70b7c2
-https://pynative.com/python-mysql-select-query-to-fetch-data/
-https://stackoverflow.com/questions/42640300/using-two-foreign-auto-increment-keys-as-composite-primary-key-in-another-table
-https://dba.stackexchange.com/questions/282922/mysql-set-column-on-first-appearance-of-value
-https://www.geeksforgeeks.org/mysql-partition-by-clause/
-https://dbfiddle.uk/l2PlRUF9
-https://navicat.com/en/company/aboutus/blog/1647-applying-select-distinct-to-one-column-only
+- https://www.youtube.com/watch?v=hl55qULfHyU - 17/03 17:32
+- https://www.youtube.com/watch?v=1Zpr1vX0wqk - 17/03 17:32
+- https://dev.mysql.com/doc/refman/8.0/en/numeric-type-attributes.html
+- https://www.codeproject.com/Questions/5328479/Missing-index-constraint-for-an-SQL-table
+- https://learnsql.com/blog/referential-constraints-foreign-keys-mysql/
+- https://www.gleek.io/blog/er-model-cardinality
+- https://www.overleaf.com/latex/templates/sbc-conferences-template/blbxwjwzdngr
+- https://medium.com/@fifthfrankie/creating-a-basic-database-using-mysql-python-and-some-fake-data-3ef789859639
+- https://dev.mysql.com/doc/connector-python/en/connector-python-example-connecting.html
+- https://www.tutorialspoint.com/How-to-generate-non-repeating-random-numbers-in-Python
+- https://www.w3schools.com/python/ref_random_uniform.asp
+- https://www.tutorialspoint.com/mysql-error-1452-cannot-add-or-a-child-row-a-foreign-key-constraint-fails
+- https://stackoverflow.com/questions/12661999/get-raw-decimal-value-from-mysqldb-query
+- https://dev.mysql.com/doc/refman/8.0/en/precision-math-expressions.html
+- https://pynative.com/python-get-random-float-numbers/
+- https://www.w3schools.com/python/module_random.asp
+- https://gist.github.com/bmillemathias/f4ae3d8739b4b30c6d18164c4a70b7c2
+- https://pynative.com/python-mysql-select-query-to-fetch-data/
+- https://stackoverflow.com/questions/42640300/using-two-foreign-auto-increment-keys-as-composite-primary-key-in-another-table
+- https://dba.stackexchange.com/questions/282922/mysql-set-column-on-first-appearance-of-value
+- https://www.geeksforgeeks.org/mysql-partition-by-clause/
+- https://dbfiddle.uk/l2PlRUF9
+- https://navicat.com/en/company/aboutus/blog/1647-applying-select-distinct-to-one-column-only
