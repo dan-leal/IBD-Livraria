@@ -79,7 +79,10 @@ Considere que um livro pode ser cadastrado se existe pelo menos uma edição do 
 ## 1. Implementando o esquema no SGBD
 ### Modelo ER
 
-![[Schema_Livraria-Página-2.drawio 5.png]]
+![Schema_Livraria-Página-2 drawio](https://github.com/dan-leal/IBD-Livraria/assets/65087142/fc5d5d64-c6aa-4728-92f7-9626e31394ce)
+
+https://app.diagrams.net/#G18GWi8DdLwX0p8f4h-LVfZCnaVd5GYACw#%7B%22pageId%22%3A%22R2lEEEUBdFMjLlhIrx00%22%7D
+https://drive.google.com/file/d/18GWi8DdLwX0p8f4h-LVfZCnaVd5GYACw/view?usp=sharing
 ### Esquema Relacional
 
 Autor (<u>autor_id</u>, autor_nome, paisNasc, dataNasc, notaBiografica)
