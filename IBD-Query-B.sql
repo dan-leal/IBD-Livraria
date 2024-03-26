@@ -20,5 +20,5 @@ and tab.autor_id = A.autor_id
 and tab.livro_id = L.livro_id
 and L.isbn = E.isbn
 and E.editora_id = ED.editora_id
-and L.livro_nome LIKE '%XXX%'
+and L.livro_nome LIKE '%Hori%'
 order by tab.livro_id,tab.autor_id

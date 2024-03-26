@@ -76,7 +76,7 @@ CREATE TABLE `editora` (
     `editora_nome` VARCHAR(50) NOT NULL,
     `telefone` VARCHAR(100) NOT NULL,
     `endereco` VARCHAR(200),
-    KEY `idx_editora_id` (`editora_id`)
+    PRIMARY KEY (`editora_id`)
 );
 """
 
@@ -166,7 +166,7 @@ try:
             edicao = [fake.isbn10(),
                       random.randint(1, 51),
                       fake.date_time_between(start_date='-19y'),
-                      random.randint(0, 60),
+                      random.randint(0, 100000),
                       float(random.uniform(10, 400)),
                       random.randint(1, 10000)
                       ]
